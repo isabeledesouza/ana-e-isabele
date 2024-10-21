@@ -38,6 +38,8 @@ footer{
     height: 100%;
     color: var(--branco);
     text-align: center;
+    transform-style: preserve-3d;
+    transition: tranform 300ms ease-in-out;
 }
 
 .conteudo-cartao h3{
@@ -68,3 +70,4 @@ footer{
     font-weight: 700;
     color: var(--destaque);
 }
+
