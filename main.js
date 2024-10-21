@@ -15,4 +15,7 @@
     `
     container.appendChild(cartao)
     }
+    .pergunta-cartao{
+        font-weight
+    }
     
